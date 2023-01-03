@@ -1,5 +1,5 @@
 {
-  "imageSrc": "https://fres-co.github.io/fresco",
+  "imageSrc": "https://fres-co.github.io/fresco-community/avatars/fresco/blue.png",
   "spriteWidth": 50,
   "spriteHeight": 70,
   "offsetX": -50,
@@ -10,7 +10,7 @@
   "animationDuration": ".1s",
   "animations": [
     {
-      "name": "/*<script>alert(1)</script>",
+      "name": "<script>alert(1)</script>",
       "animationSteps": 1,
       "animationDuration": "1s",
       "orientationRange": [361, 361],
