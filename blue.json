@@ -10,7 +10,7 @@
   "animationDuration": ".1s",
   "animations": [
     {
-      "name": "idle</style><script>alert(1)</script><style>",
+      "name": "</style><script>alert(1)</script>/*<style>",
       "animationSteps": 1,
       "animationDuration": "1s",
       "orientationRange": [361, 361],
