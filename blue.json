@@ -10,7 +10,7 @@
   "animationDuration": ".1s",
   "animations": [
     {
-      "name": "<script>alert(1)</script>",
+      "name": " x{}</style><style style=\"animation-name:x\" onanimationend=\"alert(1)\"></style>",
       "animationSteps": 1,
       "animationDuration": "1s",
       "orientationRange": [361, 361],
