@@ -7,7 +7,7 @@
   "idleX": 50,
   "idleY": 0,
   "animationSteps": 4,
-  "animationDuration": ".1s",
+  "animationDuration": ".1s;lol:lol",
   "animations": [
     {
       "name": "idle",
