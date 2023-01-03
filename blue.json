@@ -7,12 +7,12 @@
   "idleX": 50,
   "idleY": 0,
   "animationSteps": 4,
-  "animationDuration": ".5s",
+  "animationDuration": ".1s",
   "animations": [
     {
       "name": "idle",
       "animationSteps": 1,
-      "animationDuration": "10s",
+      "animationDuration": "1s",
       "orientationRange": [361, 361],
       "keyframes": [
         {
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "name": "right",
+      "name": "left",
       "orientationRange": [0, 180],
       "keyframes": [
         {
