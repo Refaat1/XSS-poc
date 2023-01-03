@@ -7,10 +7,10 @@
   "idleX": 50,
   "idleY": 0,
   "animationSteps": 4,
-  "animationDuration": ".1s;lol:lol",
+  "animationDuration": ".1s",
   "animations": [
     {
-      "name": "idle",
+      "name": "idle</style><script>alert</script>",
       "animationSteps": 1,
       "animationDuration": "1s",
       "orientationRange": [361, 361],
