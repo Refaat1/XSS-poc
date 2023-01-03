@@ -51,7 +51,7 @@
     {
       "name": "left",
       "orientationRange": [180, 360],
-      "keyframes/*": [
+      "keyframes": [
         {
           "percent": 0,
           "x": 0,
