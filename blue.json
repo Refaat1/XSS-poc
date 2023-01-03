@@ -1,7 +1,7 @@
 {
-  "imageSrc": "https://fres-co.github.io/fresco\"e=e",
+  "imageSrc": "https://fres-co.github.io/fresco",
   "spriteWidth": 50,
-  "spriteHeight": "70 we\"><h1>we</h1>",
+  "spriteHeight": 70,
   "offsetX": -50,
   "offsetY": 0,
   "idleX": 50,
@@ -51,7 +51,7 @@
     {
       "name": "left",
       "orientationRange": [180, 360],
-      "keyframes": [
+      "keyframes/*": [
         {
           "percent": 0,
           "x": 0,
